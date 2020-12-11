@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
 -->
-[![Ashish Ranjan has a lot of ideas.](https://github.com/swolecoder/swolecoder/blob/main/IMG_4576%202.jpg)](https://swolecoder.com/)
+<!-- [![Ashish Ranjan has a lot of ideas.](https://github.com/swolecoder/swolecoder/blob/main/IMG_4576%202.jpg)](https://swolecoder.com/) -->
 
 Hi. I’m Ashish. I do lots of algorithm & Data Structure on this account . Please checkout my Youtube channel [_Leetcode in JavaScript_](https://www.youtube.com/channel/UCHcwbg7QduXg_ESJObZEGUw?view_as=subscriber).
 
