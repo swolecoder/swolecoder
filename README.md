@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 <!-- [![Ashish Ranjan has a lot of ideas.](https://github.com/swolecoder/swolecoder/blob/main/IMG_4576%202.jpg)](https://swolecoder.com/) -->
 
-Hi. I’m Ashish. I do lots of algorithm and data Structure on this account. I am Software Engineer at Amazon.
+
+I'm a Software Engineer at Amazon with a passion for algorithms, data structures, and solving complex problems. On this account, you'll find a plethora of algorithmic challenges and data structure implementations that I've worked on. I believe in the power of coding and technology to innovate and make a difference, and I'm excited to share my journey and learnings with you all!
